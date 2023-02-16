@@ -1,7 +1,7 @@
 # Django-API
 
 Criando uma API de clientes utilizando Python e Django Rest Framework
-da Alura - https://cursos.alura.com.br/formacao-django-rest
+do Curso da Alura - https://cursos.alura.com.br/formacao-django-rest
 
 
 ## Criando ambiente virtual
