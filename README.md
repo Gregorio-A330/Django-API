@@ -1,15 +1,17 @@
 # Django-API
-clientes
+
+Criando uma API de clientes utilizando Python e Django Rest Framework
+da Alura - https://cursos.alura.com.br/formacao-django-rest
 
 
-## criando ambiente virtual
+## Criando ambiente virtual
 
 ```
 python -m venv ./venv
 ```
 
 
-## ativando o ambiente virtual
+## Ativando o ambiente virtual
 
 ### Mac / Linux
 
@@ -23,16 +25,19 @@ venv\Scripts\activate
 ```
 
 
-## verificar os modulos 
+## Verificar os modulos instalados
 ```
 pip freeze
 ```
 
 
-## instalando os modulos a partir de um arquivo txt 
+## Instalando os modulos a partir de um arquivo txt 
 ```
 pip install -r requirements.txt
 ```
+
+Obs.: O modulo do requirements.txt precisou ser atualizado, pois o mesmo não estava funcional 
+-> typed-ast==1.5.4
 
 
 ## Rodar/executar o servidor 
